@@ -1,1 +1,1 @@
-# TSP_GA
+run file TSP_GA
